@@ -1,0 +1,30 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Build output
+dist/
+build/
+
+# Local audio files
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.m4a
+*.aac
